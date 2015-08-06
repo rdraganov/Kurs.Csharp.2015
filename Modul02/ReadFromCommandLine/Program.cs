@@ -16,7 +16,7 @@ namespace ReadFromCommandLine
 
 			string test = "1";
 			test += ", 2";
-			test += ", 100";
+			test += ", три";
 			test += ", 4";
 			test += ", 5";
 

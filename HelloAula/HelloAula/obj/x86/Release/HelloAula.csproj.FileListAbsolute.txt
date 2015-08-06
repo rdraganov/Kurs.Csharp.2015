@@ -2,3 +2,7 @@ D:\aula\primeri.csharp.2015\HelloAula\HelloAula\bin\Release\HelloAula.exe
 D:\aula\primeri.csharp.2015\HelloAula\HelloAula\bin\Release\HelloAula.pdb
 D:\aula\primeri.csharp.2015\HelloAula\HelloAula\obj\x86\Release\HelloAula.exe
 D:\aula\primeri.csharp.2015\HelloAula\HelloAula\obj\x86\Release\HelloAula.pdb
+D:\Aula\kurs.csharp.2015\HelloAula\HelloAula\bin\Release\HelloAula.exe
+D:\Aula\kurs.csharp.2015\HelloAula\HelloAula\bin\Release\HelloAula.pdb
+D:\Aula\kurs.csharp.2015\HelloAula\HelloAula\obj\x86\Release\HelloAula.exe
+D:\Aula\kurs.csharp.2015\HelloAula\HelloAula\obj\x86\Release\HelloAula.pdb
