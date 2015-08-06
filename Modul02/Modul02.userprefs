@@ -1,12 +1,8 @@
 ﻿<Properties StartupItem="Modul02\Modul02.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Modul02\Program.cs">
     <Files>
-<<<<<<< HEAD
-      <File FileName="Modul02\Program.cs" Line="36" Column="8" />
-=======
-      <File FileName="Modul02\Program.cs" Line="13" Column="10" />
->>>>>>> b81c302f2f11767ee4d2c32813bcc8b8bf3f720b
+      <File FileName="Modul02\Program.cs" Line="16" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

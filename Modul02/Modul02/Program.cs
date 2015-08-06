@@ -9,6 +9,11 @@ namespace Modul02
 			//Дефиниране на променливи
 			int a = 0, b = 0; 
 			int sum = 0;
+			string program_name = "Модул02 - примери";
+			string program_version = "1.0";
+            //Данни за програмата
+			Console.WriteLine(program_name);
+			Console.WriteLine("Версия "+program_version+"\n\n");
 
 			//Събиране на числа
 			a = 10;
@@ -43,6 +48,8 @@ namespace Modul02
 
 			Console.WriteLine ("\nХващане на остатък");
 			Console.WriteLine ( a%b ); //5, 1.5
+
+
 		;
 		}
 	}
