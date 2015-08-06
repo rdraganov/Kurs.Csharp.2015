@@ -1,13 +1,16 @@
 ﻿<Properties StartupItem="TableProject\TableProject.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReadFromCommandLine\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableProject\Program.cs">
     <Files>
-      <File FileName="Modul02\Program.cs" Line="16" Column="25" />
-      <File FileName="ReadFromCommandLine\Program.cs" Line="15" Column="13" />
+      <File FileName="Modul02\Program.cs" Line="1" Column="1" />
+      <File FileName="ReadFromCommandLine\Program.cs" Line="19" Column="18" />
+      <File FileName="TableProject\Program.cs" Line="22" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="D:\Aula\kurs.csharp.2015\Modul02\TableProject\Program.cs" line="36" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
