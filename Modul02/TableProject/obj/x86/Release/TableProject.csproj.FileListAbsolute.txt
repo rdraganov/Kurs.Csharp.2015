@@ -1,0 +1,4 @@
+D:\aula\primeri.csharp.2015\Modul02\TableProject\bin\Release\TableProject.exe
+D:\aula\primeri.csharp.2015\Modul02\TableProject\bin\Release\TableProject.pdb
+D:\aula\primeri.csharp.2015\Modul02\TableProject\obj\x86\Release\TableProject.exe
+D:\aula\primeri.csharp.2015\Modul02\TableProject\obj\x86\Release\TableProject.pdb
