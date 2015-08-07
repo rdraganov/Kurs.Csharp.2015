@@ -18,7 +18,7 @@ namespace TableProject
 			Console.Write("Кой ред да отпечатам? > ");
 			int _Index=Convert.ToInt32(Console.ReadLine())-1;
 
-			Console.WriteLine(table[_Index,0][0]+". "+table[_Index,1]+", "+table[_Index,2]);
+			Console.WriteLine(table[_Index,0][0]+". "+table[_Index,1]+", "+table[_Index,2]+" г.");
 
 
 		}
