@@ -1,0 +1,4 @@
+D:\Aula\kurs.csharp.2015\Modul03\BoolExplore\bin\Debug\BoolExplore.exe
+D:\Aula\kurs.csharp.2015\Modul03\BoolExplore\bin\Debug\BoolExplore.pdb
+D:\Aula\kurs.csharp.2015\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.exe
+D:\Aula\kurs.csharp.2015\Modul03\BoolExplore\obj\x86\Debug\BoolExplore.pdb

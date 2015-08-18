@@ -13,11 +13,20 @@ namespace BoolExplore
 			Console.Write("Въведете номер: ");
 			int _ui=Convert.ToInt32(Console.ReadLine());
 
-			bool _check01=_ui<=3;
+			bool _check01=_ui<=_i.Length;
 			bool _check02=_ui>0;
 
+			bool _exp01 = _check01 && _check02; 	//Логическо И *&&Ч
+			bool _exp02 = _check01 || _check02;		//Логическо ИЛИ *||*
+			bool _exp03 = !_check01;				//Логическо НЕ *!*
 
-			Console.WriteLine (_i[_ui-1]);
+			Console.WriteLine ("Логическо И: "+_exp01);
+			Console.WriteLine ("Логическо ИЛИ: "+_exp02);
+			Console.WriteLine ("Логическо НЕ за "+_check01+"   "+ _exp03+"\n\n");
+
+			//Console.WriteLine ("Елемент номер "+(int)_ui +" : "+ (int)_i[_ui-1]);
+
+
 		}
 	}
 }
