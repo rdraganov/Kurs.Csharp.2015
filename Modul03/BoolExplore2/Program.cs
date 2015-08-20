@@ -15,13 +15,32 @@ namespace BoolExplore2
 
 			bool _check01 = int.TryParse( _input, out _ui );
 
-			_ui = (_ui <= _i.Length ) ? _ui : 3;
-			_ui = (_ui > 0) ? _ui : 1;
-
-			if (_check01)
-			{
-				Console.WriteLine ("Елемент с индекс "+(int)_ui +" : "+ (int)_i[_ui-1]);
+			switch (_ui) {
+			case 1:
+				{
+					Console.Write ("1ви елемент от масива: ");
+					Console.WriteLine (_i [_ui - 1]);
+					break;
+				}
+			case 2:
+				{
+					Console.Write ("2ри елемент от масива: ");
+					Console.WriteLine (_i [_ui - 1]);
+					break;
+				}
+			case 3:
+				{
+					Console.Write ("1ти елемент от масива: ");
+					Console.WriteLine (_i [_ui - 1]);
+					break;
+				}
+			default :{
+					Console.WriteLine ("В масива няма елемент с този индекс.\n\n\nОпитайте с индекс между 1 и " 
+							+ Convert.ToString( _i.Length ) + "\n\n");
+					break;
+				}
 			}
+
 
 		}
 	}
