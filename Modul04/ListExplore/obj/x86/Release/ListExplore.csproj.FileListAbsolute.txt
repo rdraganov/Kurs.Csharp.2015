@@ -1,0 +1,4 @@
+D:\Aula\kurs.csharp.2015\Modul04\ListExplore\bin\Release\ListExplore.exe
+D:\Aula\kurs.csharp.2015\Modul04\ListExplore\bin\Release\ListExplore.pdb
+D:\Aula\kurs.csharp.2015\Modul04\ListExplore\obj\x86\Release\ListExplore.exe
+D:\Aula\kurs.csharp.2015\Modul04\ListExplore\obj\x86\Release\ListExplore.pdb
