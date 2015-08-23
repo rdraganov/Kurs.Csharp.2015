@@ -27,15 +27,25 @@ namespace Modul04
 //			}
 
 		//Пример с while
+//			int i=0;
+//			while (i<_tbl.Length/3)
+//			{
+//				Console.WriteLine (
+//					_tbl[i,0].PadRight(12)+
+//					_tbl[i,1].PadRight(12)+
+//					_tbl[i,2].PadRight(12));
+//				i++;
+//			}
+
+			//Пример с do ...  while
 			int i=0;
-			while (i<_tbl.Length/3)
-			{
+			do {
 				Console.WriteLine (
-					_tbl[i,0].PadRight(12)+
-					_tbl[i,1].PadRight(12)+
-					_tbl[i,2].PadRight(12));
+					_tbl [i, 0].PadRight (12) +
+					_tbl [i, 1].PadRight (12) +
+					_tbl [i, 2].PadRight (12));
 				i++;
-			}
+			} while(i < _tbl.Length/3);
 
 			Console.WriteLine ("\n\n\nPress any key...");
 			Console.ReadKey ();
