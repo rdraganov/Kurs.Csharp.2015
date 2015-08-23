@@ -16,14 +16,28 @@ namespace Modul04
 			};
 			Console.WriteLine ("Име".PadRight(12)+"Фамилия".PadRight(12)+"Години".PadRight(12));
 			Console.WriteLine ("==============================");
-		for (int i = 0; i < _tbl.Length/3 ; i++) {
-//				//Код на цикъла
-				for (int j=0; j<3; j++){
-					Console.Write(_tbl[i,j].PadRight(12));
-				}
-				Console.WriteLine();
+
+		//Пример с цикъл for
+//		for (int i = 0; i < _tbl.Length/3 ; i++) {
+////				//Код на цикъла
+//				for (int j=0; j<3; j++){
+//					Console.Write(_tbl[i,j].PadRight(12));
+//				}
+//				Console.WriteLine();
+//			}
+
+		//Пример с while
+			int i=0;
+			while (i<_tbl.Length/3)
+			{
+				Console.WriteLine (
+					_tbl[i,0].PadRight(12)+
+					_tbl[i,1].PadRight(12)+
+					_tbl[i,2].PadRight(12));
+				i++;
 			}
-			Console.WriteLine ("\n\n\n");
+
+			Console.WriteLine ("\n\n\nPress any key...");
 			Console.ReadKey ();
 		}
 	}
