@@ -1,0 +1,4 @@
+D:\Aula\kurs.csharp.2015\Modul05\Modul05\bin\Debug\Modul05.exe
+D:\Aula\kurs.csharp.2015\Modul05\Modul05\bin\Debug\Modul05.pdb
+D:\Aula\kurs.csharp.2015\Modul05\Modul05\obj\x86\Debug\Modul05.exe
+D:\Aula\kurs.csharp.2015\Modul05\Modul05\obj\x86\Debug\Modul05.pdb
