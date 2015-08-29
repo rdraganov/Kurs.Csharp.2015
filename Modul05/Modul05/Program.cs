@@ -32,6 +32,10 @@ namespace Modul05
 						Console.WriteLine(_c);	
 					}
 				}
+				if (usercommand.ToLower().Contains("t6"))
+				{
+					Console.WriteLine("Брой четни числа: "+test6(usercommand).Length.ToString());
+				}
 				
 
 			} while(usercommand != "exit");
@@ -83,7 +87,31 @@ namespace Modul05
 			_i = _i * _i;
 			return(temp > 0);
 		}
-		
+
+
+		public static string[] test6(string _input)
+		{
+			try{
+				int _border=0;
+				string _temp="";
+				if (int.TryParse(_input.Split(' ')[1],out _border))
+					{
+						for (int i=0; i < _border; i++)
+						{
+						if (i % 2 == 0) 
+						{
+							_temp+=i.ToString();
+							if (i < _border-2) _temp+=",";
+						}
+					}
+					Console.WriteLine(_temp); //за проверка
+					return _temp.Split(',');
+					}
+			}catch{
+			}
+			return new string[1] {"0"};
+		}
+
 	  }
 	
 }
