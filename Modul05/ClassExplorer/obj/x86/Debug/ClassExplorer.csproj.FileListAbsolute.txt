@@ -1,0 +1,4 @@
+D:\Aula\kurs.csharp.2015\Modul05\ClassExplorer\bin\Debug\ClassExplorer.exe
+D:\Aula\kurs.csharp.2015\Modul05\ClassExplorer\bin\Debug\ClassExplorer.pdb
+D:\Aula\kurs.csharp.2015\Modul05\ClassExplorer\obj\x86\Debug\ClassExplorer.exe
+D:\Aula\kurs.csharp.2015\Modul05\ClassExplorer\obj\x86\Debug\ClassExplorer.pdb
